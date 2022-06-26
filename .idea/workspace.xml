@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f88f666d-9b9f-4ee5-a515-68dd3fd4d7af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/config/DefaultSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/service/CustomAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-authorization-server/src/main/java/com/buezman/oauthServer/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/dto/PasswordDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/dto/RegisterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/event/RegistrationCompleteEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/eventListener/RegistrationCompleteEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/model/PasswordResetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/repository/PasswordResetTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_security_client/src/main/java/com/buezman/spring_security_client/service/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AYrY8MPhFB4KuOPyQ2zpcQxJo7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.buezman.oauthServer.repository" />
+      <recent name="com.buezman.oauthServer.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityClientApplication">
+    <configuration name="Deen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buezman.spring_security_client.Deen" />
+      <module name="spring_security_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buezman.spring_security_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kunle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buezman.spring_security_client.Kunle" />
+      <module name="spring_security_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buezman.spring_security_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buezman.oauthServer.OauthAuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_security_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buezman.spring_security_client.SpringSecurityClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kunle" />
+        <item itemvalue="Application.Deen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f88f666d-9b9f-4ee5-a515-68dd3fd4d7af" name="Changes" comment="" />
+      <created>1655197416432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655197416432</updated>
+      <workItem from="1655197419912" duration="52193000" />
+      <workItem from="1656163692941" duration="21744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
